@@ -6,8 +6,8 @@
 <h4>Lee Dong Wook (Team worker)</h4>
 
 <h3>Tech Stack</h3>
-<h4>FE : ReactJS</h4>
-<h4>BE : SpringBoot , Postgresql</h4>
+<h4>FE : <img src = "https://img.shields.io/badge/React-0066CC?style=flat-square&logo=React&logoColor=white"/></h4>
+<h4>BE : <img src = "https://img.shields.io/badge/SpringBoot-66FF66?style=flat-square&logo=SpringBoot&logoColor=white"/>, <img src = "https://img.shields.io/badge/Postgresql-FF9999?style=flat-square&logo=Postgresql&logoColor=black"/></h4>
 
 <h3>Period</h3>
 <h4>2023.03.02 ~ 2023.11.24</h4>
