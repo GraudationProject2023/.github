@@ -1,9 +1,9 @@
 ## Graduation Projects for Hongik University Computer Engineering senior grade
 
 <h3>Developers</h3>
-<h4>Hong Yong Hyeon (Team leader)</h4>
-<h4>Choi Seong Bo (Team worker)</h4>
-<h4>Lee Dong Wook (Team worker)</h4>
+<h4>Hong Yong Hyeon (Team leader, BE)</h4>
+<h4>Choi Seong Bo (BE)</h4>
+<h4>Lee Dong Wook (FE)</h4>
 
 <h3>Tech Stack</h3>
 <h4>FE : <img src = "https://img.shields.io/badge/React-0066CC?style=flat-square&logo=React&logoColor=white"/></h4>
