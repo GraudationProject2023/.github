@@ -2,7 +2,7 @@
 
 <h3>Developers</h3>
 <h4>Hong Yong Hyeon (Team leader)</h4>
-<h4>Choi Seong Bo (Team subleader)</h4>
+<h4>Choi Seong Bo (Team worker)</h4>
 <h4>Lee Dong Wook (Team worker)</h4>
 
 <h3>Tech Stack</h3>
