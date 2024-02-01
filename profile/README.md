@@ -1,4 +1,8 @@
 ##  2023 홍익대학교 컴퓨터공학과 창직종합설계프로젝트
+<img width="600" alt="스크린샷 2024-02-01 오후 10 31 11" src="https://github.com/GraudationProject2023/.github/assets/97590636/64cd6e7f-7dfc-4f07-82bf-639b3e607bad">
+
+
+
 
 <h3>Developers</h3>
 <h4>Hong Yong Hyeon (Team leader, BE)</h4>
