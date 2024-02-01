@@ -8,7 +8,8 @@
 
 ### 기간
 ### 2023. 04 - 2023. 11
-<img width="500" alt="스크린샷 2024-02-01 오후 10 31 11" src="https://github.com/GraudationProject2023/.github/assets/97590636/64cd6e7f-7dfc-4f07-82bf-639b3e607bad">
+
+<img width="600" alt="스크린샷 2024-02-01 오후 10 31 11" src="https://github.com/GraudationProject2023/.github/assets/97590636/64cd6e7f-7dfc-4f07-82bf-639b3e607bad">
 <!--
 
 **Here are some ideas to get you started:**
