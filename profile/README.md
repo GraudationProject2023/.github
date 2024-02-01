@@ -1,4 +1,4 @@
-## Graduation Projects for Hongik University Computer Engineering senior grade
+##  2023 홍익대학교 컴퓨터공학과 창직종합설계프로젝트
 
 <h3>Developers</h3>
 <h4>Hong Yong Hyeon (Team leader, BE)</h4>
